@@ -1,0 +1,6 @@
+{
+  "name": "JJ Finance",
+  "description": "A minimalist, Apple-inspired daily expense and income tracker with detailed visual reports and smart sorting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
